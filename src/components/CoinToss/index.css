@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bottom-container {
+  background-color: #ffffff;
+  height: 500px;
+  width: 350px;
+  border-radius: 10px;
+}
+.image {
+  height: 180px;
+  width: 200px;
+}
+.headtails-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.total-toss {
+  margin-right: 35px;
+  padding-left: 20px;
+  color: #475569;
+}
+.heading {
+  color: #a35200;
+  font-size: 30px;
+  font-family: 'Roboto';
+  text-align: center;
+  padding-top: 30px;
+}
+.head-or-tails {
+  color: #334155;
+  font-size: 17px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.button {
+  background-color: #f9d423;
+  color: #a35200;
+  font-family: 'Roboto';
+  margin-top: 20px;
+  height: 30px;
+  width: 80px;
+  border: none;
+  border-radius: 5px;
+}
